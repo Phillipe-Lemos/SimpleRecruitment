@@ -1,3 +1,7 @@
+# Goal
+
+Test Java and Spring knowledge. 
+
 # How to build
 
 mvn clean buil
