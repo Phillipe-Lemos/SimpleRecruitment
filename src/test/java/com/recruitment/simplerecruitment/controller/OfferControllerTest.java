@@ -37,7 +37,6 @@ import com.recruitment.simplerecruitment.service.OfferService;
 @RunWith(SpringRunner.class)
 @ActiveProfiles(value="test")
 @WebMvcTest(OfferController.class)
-
 public class OfferControllerTest {
 
 	@MockBean
